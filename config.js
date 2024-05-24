@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Rei',
+	name: 'Pierre',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -135,16 +135,16 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'Wikis',
 			id: '1',
 			links: [
 				{
-					name: 'Kren',
-					link: 'https://www.youtube.com/playlist?list=PLgF_gQh7OwJzwtN08b5oQ_-s3uZ6IsLp-',
+					name: 'LS2N',
+					link: 'https://wiki.ls2n.fr/doku.php',
 				},
 				{
-					name: 'Underrated',
-					link: 'https://www.youtube.com/playlist?list=PLWTjjEmzNQCvKwhXmedIRmxXU-nUy7XIi',
+					name: 'Univ-Nantes',
+					link: 'https://intraperso.univ-nantes.fr',
 				},
 				{
 					name: 'Japanese',
